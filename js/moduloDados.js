@@ -10,19 +10,22 @@
 
 const usuarios=[
     {id:1,
-    nomeUsuario: 'yan barbosa',
+    nomeUsuario:'yan barbosa',
     senha:'12345',
-    email: 'yan.2@gmail.com'
+    email: 'yan.2@gmail.com',
+    
     },
     {id:2,
         nomeUsuario: 'felipe barbosa',
         senha:'12345',
-        email: 'felipe.2@gmail.com'
+        email: 'felipe.2@gmail.com',
+        
         },
     {id:3,
      nomeUsuario: 'pedro barbosa',
      senha:'12345',
-     email: 'pedro.2@gmail.com'
+     email: 'pedro.2@gmail.com',
+    
     }   
 
 
